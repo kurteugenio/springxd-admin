@@ -1,5 +1,5 @@
-FROM springxd/base
-MAINTAINER Eric Bottard
+FROM olearys/springxd-image-base
+MAINTAINER Kurt Greiner
 
 USER root
 COPY start /opt/spring-xd/start
